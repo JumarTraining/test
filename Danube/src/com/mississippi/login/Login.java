@@ -12,7 +12,7 @@ import com.mysql.jdbc.Connection;
 import com.mysql.jdbc.Statement;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
-
+//glfargl
 public class Login extends JFrame
 {
 	//create buttons and things
