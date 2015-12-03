@@ -1,7 +1,7 @@
 package com.mississippi.databaseaccess;
 import java.sql.*;
 import java.util.*;
-//hello
+//hello im alex
 public class DB {
 
 		Statement stat;
